@@ -45,7 +45,7 @@ Note que también Visual Code muestra que archivos se crearon, se actualizaron y
 # Podemos Trabajar en LaTex al tiempo? 
 Claro que sí!!!, desde **VS Code** hay alternativas a utilizar Overleaf y que no colapsan si el archivo .tex a imprimir se sobrecarga, evitando tener que pagar una licencia.
 ## Qué necesitamos??
-Es relevante detonar que necesitamos de una extensión para visualizar el codigo .tex que estemos haciendo, en palabras mas simples ver el pdf que vamos a imprimir.
+Es relevante denotar que necesitamos de una extensión para visualizar el codigo .tex que estemos haciendo, en palabras mas simples ver el pdf que vamos a imprimir.
 Para ello recomiendo el siguiente [Tutorial](https://www.youtube.com/watch?v=Mty0vHb0knI). 
 
 - Extensiones a usar:
